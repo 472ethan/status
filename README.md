@@ -1,3 +1,6 @@
+This is the source repository of [**status.cs472.endfind.me**](http://status.cs472.endfind.me/).
+The original README.md is retained below.
+
 # [![Upptime](https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/logo.svg)](https://upptime.js.org)
 
 <!--start: description-->
