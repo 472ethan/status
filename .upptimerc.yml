@@ -1,4 +1,5 @@
-# Change these first
+# Please run I beg of you
+#
 owner: 472ethan
 repo: status
 
@@ -9,10 +10,7 @@ sites:
       - 200
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.cs472.endfind.me
-  # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Dinky Web Status
   introTitle: >
@@ -27,6 +25,3 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
