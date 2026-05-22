@@ -14,8 +14,8 @@ status-website:
   introTitle: >
     Backend health and everything, powered by **Upptime** and **GitHub**
   introMessage: >
-    This is a status page for **engine.cs472.endfind.me**
-    generated from the Github Repository
+    This is a status page for [https://engine.cs472.endfind.me/](**engine.cs472.endfind.me**)
+    generated from the Github repository
     [*472ethan/status*](https://github.com/472ethan/status).
     No server required (besides GitHub's own server, of course.)
     [**Get your own for free**](https://github.com/upptime/upptime).
