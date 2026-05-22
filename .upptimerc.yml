@@ -16,8 +16,9 @@ status-website:
   introTitle: >
     Backend health and everything, powered by **Upptime** and **GitHub**
   introMessage: >
-    This is a sample status page which uses **real-time** data from
-    my [GitHub repository](https://github.com/$OWNER/$REPO).
+    This is a status page for **engine.cs472.endfind.me**
+    generated from the Github Repository
+    [*472ethan/status*](https://github.com/472ethan/status).
     No server required (besides GitHub's own server, of course)!
     [**Get your own for free**](https://github.com/upptime/upptime).
   navbar:
