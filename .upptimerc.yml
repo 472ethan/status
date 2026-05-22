@@ -4,7 +4,7 @@ owner: 472ethan
 repo: status
 
 sites:
-  - name: Dk-Wiki Engine
+  - name: DK-Wiki Engine
     url: https://engine.cs472.endfind.me/api/ping
     expectedStatusCodes:
       - 200
