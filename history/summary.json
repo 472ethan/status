@@ -1,6 +1,6 @@
 [
   {
-    "name": "Dk-Wiki Engine",
+    "name": "DK-Wiki Engine",
     "url": "https://engine.cs472.endfind.me/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/engine.cs472.endfind.me.ico",
     "slug": "dk-wiki-engine",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 695,
-    "timeDay": 695,
-    "timeWeek": 695,
-    "timeMonth": 695,
-    "timeYear": 695,
+    "time": 467,
+    "timeDay": 467,
+    "timeWeek": 467,
+    "timeMonth": 467,
+    "timeYear": 467,
     "dailyMinutesDown": {}
   }
 ]
