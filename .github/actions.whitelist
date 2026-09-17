@@ -1,4 +1,5 @@
 actions/checkout@*,
+actions/create-github-app-token@*,
 actions/setup-node@*,
 benc-uk/workflow-dispatch@*,
 peaceiris/actions-gh-pages@*,
