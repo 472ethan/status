@@ -4,7 +4,7 @@
     "url": "https://engine.cs472.endfind.me/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/engine.cs472.endfind.me.ico",
     "slug": "dk-wiki-engine",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -13,7 +13,7 @@
     "time": 369,
     "timeDay": 301,
     "timeWeek": 301,
-    "timeMonth": 473,
+    "timeMonth": 483,
     "timeYear": 369,
     "dailyMinutesDown": {}
   }
