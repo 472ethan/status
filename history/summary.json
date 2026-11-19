@@ -5,13 +5,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/engine.cs472.endfind.me.ico",
     "slug": "dk-wiki-engine",
     "status": "down",
-    "uptime": "76.05%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptime": "76.00%",
+    "uptimeDay": "88.51%",
+    "uptimeWeek": "98.36%",
     "uptimeMonth": "56.50%",
-    "uptimeYear": "76.05%",
+    "uptimeYear": "76.00%",
     "time": 369,
-    "timeDay": 207,
+    "timeDay": 0,
     "timeWeek": 265,
     "timeMonth": 365,
     "timeYear": 369,
@@ -59,7 +59,8 @@
       "2026-09-22": 1440,
       "2026-09-21": 1440,
       "2026-09-20": 1440,
-      "2026-09-19": 1384
+      "2026-09-19": 1384,
+      "2026-11-19": 165
     }
   }
 ]
